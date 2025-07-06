@@ -3,28 +3,28 @@
 ## 🛠 Languages and Tools
 
 <div align="center">
-  <table style="border-collapse: collapse;">
+  <table>
     <tr>
-      <td align="center" style="padding: 10px; min-width: 80px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" height="40" width="40"/><br/>Go
+      <td align="center" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" height="50" width="80"/><br/>Go
       </td>
-      <td align="center" style="padding: 10px; min-width: 80px;">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="40"/><br/>Flutter
+      <td align="center" style="padding: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="50"/><br/>Flutter
       </td>
-      <td align="center" style="padding: 10px; min-width: 80px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40"/><br/>PostgreSQL
+      <td align="center" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50"/><br/>PostgreSQL
       </td>
-      <td align="center" style="padding: 10px; min-width: 80px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40"/><br/>MongoDB
+      <td align="center" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/><br/>MongoDB
       </td>
-      <td align="center" style="padding: 10px; min-width: 80px;">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="40"/><br/>Kafka
+      <td align="center" style="padding: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="50"/><br/>Kafka
       </td>
-      <td align="center" style="padding: 10px; min-width: 80px;">
-        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" height="40"/><br/>RabbitMQ
+      <td align="center" style="padding: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" height="50"/><br/>RabbitMQ
       </td>
-      <td align="center" style="padding: 10px; min-width: 80px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="40"/><br/>Docker
+      <td align="center" style="padding: 10px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50"/><br/>Docker
       </td>
     </tr>
   </table>
