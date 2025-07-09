@@ -6,7 +6,7 @@
   <table>
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" height="50" width="80"/><br/>Go
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" height="50"/><br/>Go
       </td>
       <td align="center" style="padding: 10px;">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="50"/><br/>Flutter
